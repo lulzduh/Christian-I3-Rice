@@ -5,6 +5,6 @@ Make sure the battery.sh is in ~/.config/polybar which fetches battery percentag
 
 Make sure the launch.sh is in ~/.config/polybar which will launch polybar on i3 launch.
 
-Make sure the config.ini is in /etc/polybar which is the actual place where polybar gets its theme from.
+Make sure the config.ini is in /etc/polybar which is where polybar gets its theme from.
 
 Make sure the config is in ~/.config/i3 which is where i3 gets its theme from.
